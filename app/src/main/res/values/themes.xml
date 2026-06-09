@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.WaterTracking" parent="Theme.MaterialComponents.Light" />
+</resources>
